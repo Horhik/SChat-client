@@ -17,3 +17,14 @@
     flex-shrink: 1;
   }
 }
+
+.chat__message {
+  list-style: none;
+  margin: 10px;
+}
+
+.chat__messages {
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}

@@ -1,18 +1,2 @@
 @import './scss/base.scss';
 @import './scss/variables.scss';
-
-li {
-  font-size: 26px;
-  animation: mymove 3s infinite;
-}
-
-@keyframes mymove {
-  0%,
-  100% {
-    transform: scale(1);
-  }
-
-  50% {
-    transform: scale(1.4);
-  }
-}
